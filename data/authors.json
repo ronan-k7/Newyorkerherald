@@ -1,0 +1,112 @@
+[
+  {
+    "author_id": 1,
+    "slug": "ramon-t-maris",
+    "name": "Ramon T. Maris",
+    "image": "ramon-t-maris.webp",
+    "designation": "Sports Correspondent",
+    "bio": "Covers major sporting events, athlete performance, and global sports industry trends.",
+    "joined_year": "2017",
+    "location": "New York, United States"
+  },
+  {
+    "author_id": 2,
+    "slug": "claire-hudson",
+    "name": "Claire Hudson",
+    "image": "claire-hudson.webp",
+    "designation": "Health & Lifestyle Reporter",
+    "bio": "Claire Hudson covers lifestyle trends, wellness, and social behavior.",
+    "joined_year": "2019",
+    "location": "Boston, United States"
+  },
+  {
+    "author_id": 3,
+    "slug": "ethan-calloway",
+    "name": "Ethan Calloway",
+    "image": "ethan-calloway.webp",
+    "designation": "Political Analyst",
+    "bio": "Analyzes political developments, elections, and government policy with in-depth reporting.",
+    "joined_year": "2020",
+    "location": "San Francisco, United States"
+  },
+  {
+    "author_id": 4,
+    "slug": "madeline-porter",
+    "name": "Madeline Porter",
+    "image": "madeline-porter.webp",
+    "designation": "Tourism & Travel Reporter",
+    "bio": "Reports on global tourism trends, travel industry developments, and destination insights.",
+    "joined_year": "2018",
+    "location": "Chicago, United States"
+  },
+  {
+    "author_id": 5,
+    "slug": "julian-brooks",
+    "name": "Julian Brooks",
+    "image": "julian-brooks.webp",
+    "designation": "Global Affairs Editor",
+    "bio": "Focuses on international relations, global trade, and geopolitical developments.",
+    "joined_year": "2016",
+    "location": "Washington D.C., United States"
+  },
+  {
+    "author_id": 6,
+    "slug": "olivar-grant",
+    "name": "Olivar Grant",
+    "image": "olivar-grant.webp",
+    "designation": "Technology Columnist",
+    "bio": "Writes about emerging technologies, innovation, and the evolving digital landscape.",
+    "joined_year": "2021",
+    "location": "Austin, United States"
+  },
+  {
+    "author_id": 7,
+    "slug": "sophia-bennett",
+    "name": "Sophia Bennett",
+    "image": "sophia-bennett.webp",
+    "designation": "Entertainment Reporter",
+    "bio": "Reports on entertainment, film, media trends, and celebrity culture across global industries.",
+    "joined_year": "2015",
+    "location": "Washington, D.C., United States"
+  },
+  {
+    "author_id": 8,
+    "slug": "daniel-k-harper",
+    "name": "Daniel K. Harper",
+    "image": "daniel-harper.webp",
+    "designation": "Investigative Journalist",
+    "bio": "Daniel K. Harper specializes in long-form investigations, public records analysis, and institutional accountability reporting.",
+    "joined_year": "2014",
+    "location": "Seattle, United States"
+  },
+  {
+    "author_id": 9,
+    "slug": "isabella-romero",
+    "name": "Isabella Romero",
+    "image": "isabella-romero.webp",
+    "designation": "Economy Correspondent",
+    "bio": "Covers macroeconomic trends, financial markets, and global economic policy developments.",
+    "joined_year": "2020",
+    "location": "San Diego, United States"
+  },
+  {
+    "author_id": 10,
+    "slug": "noah-peterson",
+    "name": "Noah Peterson",
+    "image": "noah-peterson.webp",
+    "designation": "Sports Reporter",
+    "bio": "Noah Peterson covers major sporting events, athlete stories, and the business of sports.",
+    "joined_year": "2019",
+    "location": "Los Angeles, United States"
+  },
+  {
+    "author_id": 11,
+    "slug": "amara-okafor",
+    "name": "Amara Okafor",
+    "image": "amara-okafor.webp",
+    "designation": "Environment Journalist",
+    "bio": "Amara Okafor reports on climate change, sustainability, and environmental policy.",
+    "joined_year": "2017",
+    "location": "Houston, United States"
+  }
+]

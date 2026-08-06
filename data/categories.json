@@ -1,0 +1,68 @@
+[
+  {
+    "category_id": 2,
+    "category_name": "World",
+    "slug": "world",
+    "category_banner": "world-banner.webp",
+    "meta_title": "World News",
+    "meta_keyword": "world, global",
+    "meta_description": "International headlines and updates on diplomacy, conflicts, and world affairs.",
+    "lang_id": 5,
+    "type": "business"
+  },
+  {
+    "category_id": 3,
+    "category_name": "Economy",
+    "slug": "economy",
+    "category_banner": "finance-banner.webp",
+    "meta_title": "Economy News",
+    "meta_keyword": "Economy, finance, markets",
+    "meta_description": "Financial insights, stock reports, market trends, and analysis of global economic developments.",
+    "lang_id": 5,
+    "type": "business"
+  },
+  {
+    "category_id": 5,
+    "category_name": "Politics",
+    "slug": "politics",
+    "category_banner": "politics-banner.webp",
+    "meta_title": "Politics News",
+    "meta_keyword": "politics, government",
+    "meta_description": "Political updates, elections, policy debates, and government insights from around the world.",
+    "lang_id": 5,
+    "type": "business"
+  },
+  {
+    "category_id": 6,
+    "category_name": "Entertainment",
+    "slug": "entertainment",
+    "category_banner": "lifestyle-banner.webp",
+    "meta_title": "Entertainment News",
+    "meta_keyword": "entertainment, movies, shows",
+    "meta_description": "Explore entertainment, movies, shows",
+    "lang_id": 5,
+    "type": "business"
+  },
+  {
+    "category_id": 7,
+    "category_name": "Sports",
+    "slug": "sports",
+    "category_banner": "opinion-banner.webp",
+    "meta_title": "Sports",
+    "meta_keyword": "sports",
+    "meta_description": "Sports",
+    "lang_id": 5,
+    "type": "sports"
+  },
+  {
+    "category_id": 8,
+    "category_name": "Tourism",
+    "slug": "tourism",
+    "category_banner": "category-1772787572.webp",
+    "meta_title": "Tourism",
+    "meta_keyword": "tourism news, travel industry updates",
+    "meta_description": "Explore the latest tourism news and destination insights.",
+    "lang_id": 5,
+    "type": "general"
+  }
+]

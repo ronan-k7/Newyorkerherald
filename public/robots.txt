@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /includes/
+
+Allow: /
+
+Sitemap: https://www.newyorkerherald.com/sitemap.xml

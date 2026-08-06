@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="120" viewBox="0 0 700 120">
+
+  <!-- White Background -->
+  <rect width="100%" height="100%" fill="white"></rect>
+
+  <!-- NEW YORKER -->
+  <text x="350" y="55" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="48" font-weight="700" fill="black">
+        NEW YORKER
+  </text>
+
+  <!-- Orange left line -->
+  <polygon points="110,82 260,82 235,92 110,92" fill="#ff4d00"></polygon>
+
+  <!-- HERALD -->
+  <text x="350" y="95" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="34" font-weight="700" fill="#ff4d00">
+        HERALD
+  </text>
+
+  <!-- Orange right line -->
+  <polygon points="440,82 590,82 590,92 465,92" fill="#ff4d00"></polygon>
+
+</svg>

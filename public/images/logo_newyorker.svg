@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 80" width="220" height="42">
+  <style>
+    .main { font-family: Georgia, serif; font-size: 34px; font-weight: 700; fill:#111; }
+    .accent { fill:#ff4d00; }
+    .small { font-family: Arial, sans-serif; font-size:12px; letter-spacing:3px; fill:#555; }
+  </style>
+
+  <!-- Icon -->
+  <rect x="10" y="18" width="36" height="36" rx="5" fill="#ff4d00"></rect>
+  <text x="19" y="44" font-family="Georgia" font-size="24" fill="white" font-weight="bold">N</text>
+
+  <!-- Title -->
+  <text x="60" y="40" class="main">New Yorker</text>
+  <text x="60" y="60" class="small accent">HERALD</text>
+</svg>

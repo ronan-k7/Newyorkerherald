@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="650" height="100" viewBox="0 0 650 100">
+
+  <!-- Top Line -->
+  <line x1="50" y1="25" x2="600" y2="25" stroke="black" stroke-width="2"></line>
+
+  <!-- Logo Text -->
+  <text x="325" y="60" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="40" font-weight="700" letter-spacing="3" fill="black">
+        NEW YORKER HERALD
+  </text>
+
+  <!-- Bottom Line -->
+  <line x1="50" y1="75" x2="600" y2="75" stroke="black" stroke-width="2"></line>
+
+</svg>
